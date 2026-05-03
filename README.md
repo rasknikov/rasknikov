@@ -51,4 +51,4 @@ Experimental research project on time-series structure, stochastic behavior, and
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/emilly-wayne/) · [octin.tech](http://octin.tech)
+[LinkedIn](https://www.linkedin.com/in/emillywayne/) · [octin.tech](http://octin.tech)
